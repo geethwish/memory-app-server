@@ -1,0 +1,26 @@
+{
+    "name": "memory-app",
+    "version": "1.0.0",
+    "description": "This is a social media app",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "keywords": [
+        "Mern",
+        "App",
+        "Social",
+        "Media",
+        "App"
+    ],
+    "author": "Geeth Wishkamal",
+    "license": "MIT",
+    "dependencies": {
+        "body-parser": "^1.20.0",
+        "cors": "^2.8.5",
+        "express": "^4.17.3",
+        "mongoose": "^6.2.10",
+        "nodemon": "^2.0.15"
+    }
+}
